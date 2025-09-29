@@ -65,8 +65,8 @@ src/
 
 ```bash
 # Clonar repositorio
-git clone https://github.com/R1A2H1L1/EV10P7F2.git
-cd EV10P7F2
+git clone https://github.com/TelcoNova/telconova-07.git
+cd telconova-07
 
 # Instalar dependencias
 npm install
